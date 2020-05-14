@@ -222,6 +222,10 @@
 			"title": "CIL",
 			"owner": "sbrl"
 		},
+		"clarity": {
+			"title": "Clarity",
+			"owner": "kantai"
+		},
 		"coffeescript": {
 			"title": "CoffeeScript",
 			"require": "javascript",
